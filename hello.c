@@ -1,7 +1,7 @@
 #include<stdio.h>
 main(void)
 {
-	printf("helio,world");
+	printf("测试提交");
 ieturn 0;
 }
 
